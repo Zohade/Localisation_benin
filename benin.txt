@@ -1,0 +1,20 @@
+Alibori:
+  Banikoara:
+    - Arrondissement: Banikoara
+      Quartiers: Quartier1, Quartier2
+    - Arrondissement: Founougo
+      Quartiers: Quartier3, Quartier4
+  Kandi:
+    - Arrondissement: Kandi
+      Quartiers: Quartier5, Quartier6
+
+Atlantique:
+  Abomey-Calavi:
+    - Arrondissement: Godomey
+      Quartiers: Quartier1, Quartier2
+    - Arrondissement: Akassato
+      Quartiers: Quartier3, Quartier4
+  Ouidah:
+    - Arrondissement: Ouidah
+      Quartiers: Quartier5, Quartier6
+
